@@ -11,7 +11,7 @@ TimeKeeper is a Qt application that helps you keep track of specific dates and c
 1. Clone the repository:
     ```bash
         git clone https://github.com/yapa-ymtl/Time-Keeper.git
-        `````
+        
         2. Build the application using Qt Creator or the command line.
 
         ## Usage
